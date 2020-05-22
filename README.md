@@ -1,4 +1,4 @@
-# Arduino-PyAutoGUI-Automation
+# Arduino/PyAutoGUI Hand Motion Control for Videos
 An automation that allows for pausing and changing the volume of a video using hand motions from a distance. 
 
 *Note: Designed for youtube videos, but may work with other media players
